@@ -1,4 +1,4 @@
-package example;
+package ru.SadJi.ProjectCORE;
 
 import arc.*;
 import arc.util.*;
